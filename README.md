@@ -2,7 +2,7 @@
 Regularized Q Learning with Linear Function Approximation
 
 ## MountainCar Result
-|  d  |            Q-learning            |                  Target\& Truncation                 |         CQL        |            Double QL            |    Algorithm 1$,\tau = 0.01$    |    Algorithm 1$,\tau = 0.05$    |
+|  d  |            Q-learning            |                  Target\& Truncation                 |         CQL        |            Double QL            |    Regularized Q-Learning, $\tau = 0.01$    |     Regularized Q-Learning, $\tau = 0.05$    |
 |:---:|:--------------------------------:|:-------------------------------------:|:------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|
 |  30 |        $-177.28 \pm 32.00$       |          $-159.76 \pm 34.20$          | $-199.37\pm 06.27$ |        $-177.51\pm 33.73$       | $\boldsymbol{-144.36\pm 26.46}$ |        $-177.83\pm 30.09$       |
 |  60 |        $-143.08 \pm 32.47$       |          $-148.40 \pm 27.74$          | $-200.00\pm 00.00$ |        $-132.76\pm 31.54$       | $\boldsymbol{-121.01\pm 31.82}$ |        $-123.84\pm 28.35$       |
