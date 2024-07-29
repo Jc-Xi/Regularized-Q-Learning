@@ -4,7 +4,8 @@ Regularized Q Learning with Linear Function Approximation
 ## GridWorld: Convergence result
 <img width="773" alt="Convergence_plot" src="https://github.com/user-attachments/assets/a7a1a774-ec25-44dd-8e62-64999fb7ba01">
 
-
+## GridWorld: Fixed Point
+![FixedPoint](https://github.com/user-attachments/assets/7a52e08e-1d0c-42f1-9f3d-3276220be5a0)
 
 ## MountainCar Result
 |  d  |            Q-learning            |                  Target\& Truncation                 |         CQL        |            Double QL            |    Regularized Q-Learning, $\tau = 0.01$    |     Regularized Q-Learning, $\tau = 0.05$    |
