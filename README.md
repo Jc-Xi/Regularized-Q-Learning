@@ -4,6 +4,9 @@ Regularized Q Learning with Linear Function Approximation
 ## GridWorld: Convergence result
 <img width="773" alt="Convergence_plot" src="https://github.com/user-attachments/assets/a7a1a774-ec25-44dd-8e62-64999fb7ba01">
 
+Here, $C = \frac{\delta}{\delta_0}$ and $\delta_0 = \frac{R_{\max}+\tau B}{1-\gamma}$.
+
+
 ## GridWorld: Fixed Point
 ![FixedPoint](https://github.com/user-attachments/assets/7a52e08e-1d0c-42f1-9f3d-3276220be5a0)
 
