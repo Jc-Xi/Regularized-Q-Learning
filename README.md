@@ -2,7 +2,8 @@
 Regularized Q Learning with Linear Function Approximation
 
 ## GridWorld: Convergence result
-![Convergence Plot](https://github.com/Jc-Xi/Regularized-Q-Learning/blob/a1a2094267768f05a6e38e87e5318b8eec919859/Img/Convergece_plot_1%20to%2030.pdf "Convergence Plot")
+<img width="773" alt="Convergence_plot" src="https://github.com/user-attachments/assets/a7a1a774-ec25-44dd-8e62-64999fb7ba01">
+
 
 
 ## MountainCar Result
