@@ -1,6 +1,10 @@
 # Regularized-Q-Learning
 Regularized Q Learning with Linear Function Approximation
 
+## GridWorld: Convergence result
+![Convergence Plot](https://github.com/Jc-Xi/Regularized-Q-Learning/blob/a1a2094267768f05a6e38e87e5318b8eec919859/Img/Convergece_plot_1%20to%2030.pdf "Convergence Plot")
+
+
 ## MountainCar Result
 |  d  |            Q-learning            |                  Target\& Truncation                 |         CQL        |            Double QL            |    Regularized Q-Learning, $\tau = 0.01$    |     Regularized Q-Learning, $\tau = 0.05$    |
 |:---:|:--------------------------------:|:-------------------------------------:|:------------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:|
