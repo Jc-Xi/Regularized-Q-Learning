@@ -16,3 +16,6 @@ Regularized Q Learning with Linear Function Approximation
 | 120 | $\boldsymbol{-138.74 \pm 11.00}$ |          $-140.92 \pm 12.47$          | $-199.12\pm 03.97$ |        $-146.23\pm 12.77$       |        $-176.17\pm 22.65$       |        $-145.15\pm 29.48$       |
 | 150 |        $-141.04 \pm 24.77$       |          $-140.46 \pm 26.30$          | $-200.00\pm 00.00$ |        $-155.60\pm 19.43$       |        $-139.58\pm 20.59$       | $\boldsymbol{-120.17\pm 20.64}$ |
 | 180 |        $-135.62 \pm 32.01$       |          $-134.34 \pm 32.05$          | $-196.32\pm 13.61$ | $\boldsymbol{-110.66\pm 20.87}$ |        $-120.88\pm 22.50$       |        $-122.64\pm 22.01$       |
+
+## Smooth Truncation V.S. Hard Truncation
+![屏幕截图 2024-01-14 212333](https://github.com/user-attachments/assets/7466317a-7ec1-4e73-bc8a-17a89a57bb72)
