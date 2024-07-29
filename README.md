@@ -19,3 +19,6 @@ Regularized Q Learning with Linear Function Approximation
 
 ## Smooth Truncation V.S. Hard Truncation
 ![屏幕截图 2024-01-14 212333](https://github.com/user-attachments/assets/7466317a-7ec1-4e73-bc8a-17a89a57bb72)
+
+## Bias Introduced by Smooth Truncation
+<img width="896" alt="Bias" src="https://github.com/user-attachments/assets/6df000ba-3ad5-44d2-9bad-c6b68be43d19">
